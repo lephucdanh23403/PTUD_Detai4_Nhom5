@@ -1,0 +1,2 @@
+# PHÁT TRIỂN ỨNG DỤNG - BÀI TẬP LỚN NHÓM 5
+[LIÊN KẾT NHẬT KÝ NHÓM](https://docs.google.com/spreadsheets/d/1IZmF9TEvz0ErwnGAZ4XLzrxGF8gFIhAQ/edit?usp=sharing&ouid=111413907838782764140&rtpof=true&sd=true)
