@@ -1,5 +1,0 @@
-MSSV	        Họ Tên		        Ghi chú
-21002901	Phạm Văn Khoa		Facilitator
-21083671	Nguyễn Minh Khánh	Reporter
-21021521	Nguyễn Bảo Kha		Time Keeper
-21011361	Lê Phúc Danh		Recorder
