@@ -8,4 +8,4 @@
 | 21021521  | Nguyễn Bảo Kha     | Time Keeper    |
 | 21011361  | Lê Phúc Danh       | Recorder       |
 
-[LIÊN KẾT ĐẾN NHẬT KÝ NHÓM](https://docs.google.com/spreadsheets/d/1IZmF9TEvz0ErwnGAZ4XLzrxGF8gFIhAQ/edit?usp=sharing&ouid=111413907838782764140&rtpof=true&sd=true)
+[LIÊN KẾT ĐẾN NHẬT KÝ NHÓM](https://docs.google.com/spreadsheets/d/17Hc-6wHXU74kpf0yofEGbHfv_nEQYo69/edit?usp=sharing&ouid=111413907838782764140&rtpof=true&sd=true)
